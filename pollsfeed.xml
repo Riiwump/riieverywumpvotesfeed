@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Every Wump Votes Polls Feed</title>
+    <link>https://windowsaurora.github.io/riieverywumpvotes/</link>
+    <description>Rss Feed For Every Wump Votes channel.</description>
+    <language>en-us</language>
+    <!-- Add your feed items here ( Comment Tottaly Not Made With ChatGpt ) -->
+    <item>
+      <title>Test Title</title>
+        <link>"https://www.youtube.com"</link>
+        <id>poll</id>
+    </item>
+
+  </channel>
+</rss>
